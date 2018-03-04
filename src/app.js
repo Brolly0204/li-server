@@ -146,7 +146,7 @@ class Server {
     }
 }
 
-let server = new Server();
-server.start();
+// let server = new Server();
+// server.start();
 
 module.exports = Server;
