@@ -28,7 +28,8 @@ li-serever [-p 9090] [-o localhost] [-d /root]
 http://localhost:9090
 ```
 ## options
--p 指定端口
--o 指定主机名
--d 指定服务根目录 
+
+- -p 指定端口
+- -o 指定主机名
+- -d 指定服务根目录 
 
