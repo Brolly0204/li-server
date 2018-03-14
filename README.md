@@ -10,6 +10,8 @@
 - Range支持，断点续传
 - 发布为可执行命令并可以后台运行,可以通过npm install -g安装
 
+[li-server npm地址](https://www.npmjs.com/package/li-server)
+
 ## Install
 ```
 npm i -g li-server
